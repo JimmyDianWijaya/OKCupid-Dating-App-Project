@@ -10,10 +10,7 @@ In this repository, you will find the dataset (59946 rows and 31 columns) with 2
 1. The original dataset - profiles.csv
 2. The post-data cleaning dataset - cleansed_profiles.csv
 
-Furthermore, you will also find these files below:
-3. OKCupid Cleansed Profile Data Analysis.ipynb
-4. OKCupid Profile Data Cleansing.ipynb
-5. Findings presentation in PowerPoint.
+Furthermore, you will also find these files, OKCupid Cleansed Profile Data Analysis.ipynb, OKCupid Profile Data Cleansing.ipynb and Findings presentation in PowerPoint.
 
 The dataset provided has the following columns of multiple-choice data:
 
