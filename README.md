@@ -7,8 +7,8 @@ Furthermore, I have also created a KNN algorithm to predict the user's horoscope
 The tool used in this project is Python in Jupyter Notebook. 
 
 In this repository, you will find the dataset (59946 rows and 31 columns) with 2 different version:
-1. The original dataset - profiles.csv
-2. The post-data cleaning dataset - cleansed_profiles.csv
+1. The original dataset - profiles.csv - STATUS PENDING (file size is too big to be uploaded to GitHub)
+2. The post-data cleaning dataset - cleansed_profiles.csv - STATUS PENDING (file size is too big to be uploaded to GitHub)
 
 Furthermore, you will also find these files, OKCupid Cleansed Profile Data Analysis.ipynb, OKCupid Profile Data Cleansing.ipynb and Findings presentation in PowerPoint.
 
